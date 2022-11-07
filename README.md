@@ -17,7 +17,7 @@ Consider also trying my games: [hexagonnico.itch.io](https://hexagonnico.itch.io
 
 The plugin contains two scripts: `camera_data.gd` and `cinematic_camera.gd`. Both can be added to your scenes as nodes through the "Create New Node" menu.
 
-The **CameraData2D** node is a virtual camera. It controls the movement of a camera controls its settings.
+The **CameraData2D** node is a virtual camera. It controls the movement of a camera and its settings.
 
 The **CinematicCamera2D** node is the camera itself. It extends the Camera2D node and needs a reference to a CameraData2D node that can be assigned to it through the inspector or with a script.
 
